@@ -94,8 +94,6 @@ Recursively prints the tree structure:
 The following example demonstrates the use of the B-Tree:
 
 ```cpp
-#include "Btree.h"
-
 int main() {
     Btree<char, 5> t;
 
